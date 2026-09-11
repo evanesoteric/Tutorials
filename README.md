@@ -1,3 +1,3 @@
 # Tutorials
 
-Various tutorials and guides for the initiated.
+Tutorials for the initiated.
